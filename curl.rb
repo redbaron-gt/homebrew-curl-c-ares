@@ -1,3 +1,4 @@
+# brew reinstall -s redbaron-gt/curl-c-ares/curl
 class Curl < Formula
   desc "Get a file from an HTTP, HTTPS or FTP server"
   homepage "https://curl.se"
